@@ -11,6 +11,7 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
 
 ## Requirements
 - Google account
+- Copernicus Open Data Hub account (for data download)
 - Basic knowledge in (In)SAR data processing
 
 ## Learning material 
